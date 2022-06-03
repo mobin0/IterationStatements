@@ -1,0 +1,14 @@
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\bin\Debug\netcoreapp3.1\IterationStatements3.exe
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\bin\Debug\netcoreapp3.1\IterationStatements3.deps.json
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\bin\Debug\netcoreapp3.1\IterationStatements3.runtimeconfig.json
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\bin\Debug\netcoreapp3.1\IterationStatements3.runtimeconfig.dev.json
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\bin\Debug\netcoreapp3.1\IterationStatements3.dll
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\bin\Debug\netcoreapp3.1\IterationStatements3.pdb
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\obj\Debug\netcoreapp3.1\IterationStatements3.csproj.AssemblyReference.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\obj\Debug\netcoreapp3.1\IterationStatements3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\obj\Debug\netcoreapp3.1\IterationStatements3.AssemblyInfoInputs.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\obj\Debug\netcoreapp3.1\IterationStatements3.AssemblyInfo.cs
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\obj\Debug\netcoreapp3.1\IterationStatements3.csproj.CoreCompileInputs.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\obj\Debug\netcoreapp3.1\IterationStatements3.dll
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\obj\Debug\netcoreapp3.1\IterationStatements3.pdb
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\MethodsWithLoopsAndConditionals\IterationStatements3\IterationStatements3\obj\Debug\netcoreapp3.1\IterationStatements3.genruntimeconfig.cache
